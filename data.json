@@ -1,0 +1,35 @@
+{
+    "setembro": [
+        {"dia": 1, "faturamento": 0},
+        {"dia": 2, "faturamento": 1800.50},
+        {"dia": 3, "faturamento": 1650.00},
+        {"dia": 4, "faturamento": 1725.25},
+        {"dia": 5, "faturamento": 1600.00},
+        {"dia": 6, "faturamento": 1900.10},
+        {"dia": 7, "faturamento": 0},
+        {"dia": 8, "faturamento": 0},
+        {"dia": 9, "faturamento": 1700.50},
+        {"dia": 10, "faturamento": 1600.25},
+        {"dia": 11, "faturamento": 2000.00},
+        {"dia": 12, "faturamento": 1950.75},
+        {"dia": 13, "faturamento": 1825.50},
+        {"dia": 14, "faturamento": 0},
+        {"dia": 15, "faturamento": 0},
+        {"dia": 16, "faturamento": 2200.75},
+        {"dia": 17, "faturamento": 2300.50},
+        {"dia": 18, "faturamento": 2400.00},
+        {"dia": 19, "faturamento": 2500.75},
+        {"dia": 20, "faturamento": 2600.50},
+        {"dia": 21, "faturamento": 0},
+        {"dia": 22, "faturamento": 0},
+        {"dia": 23, "faturamento": 2900.75},
+        {"dia": 24, "faturamento": 3000.50},
+        {"dia": 25, "faturamento": 3100.25},
+        {"dia": 26, "faturamento": 3200.00},
+        {"dia": 27, "faturamento": 3300.75},
+        {"dia": 28, "faturamento": 0},
+        {"dia": 29, "faturamento": 0},
+        {"dia": 30, "faturamento": 3600.00}
+    ]
+}
+
