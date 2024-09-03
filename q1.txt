@@ -1,0 +1,5 @@
+
+Pode-se entender o algoritmo como a soma dos n, denotado por INDICE, primeiros termos de uma progressão geométrica
+O valor é S13 = (1 + 13) / 2 * 13 = 91
+O valor da variável SOMA será 91
+
